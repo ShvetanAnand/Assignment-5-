@@ -2,7 +2,6 @@
 Assignment 5 of Android Club
 
 In this Assignment we are supposed to create a list app using Redux with hooks 
-
 \
 \
 For this I have chosen to make a gaming list (with gamery aesthetic and apperance ) in which anyone can add their opinions of best games to play 
