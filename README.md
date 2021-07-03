@@ -4,7 +4,7 @@ Assignment 5 of Android Club
 In this Assignment we are supposed to create a list app using Redux with hooks 
 \
 \
-For this I have chosen to make a gaming list (with gamery aesthetic and apperance ) in which anyone can add their opinions of best games to play 
+For this I have chosen to make a gaming list (with gamery apperance ) in which anyone can add their opinions of best games to play 
 \
 \
 I have created 2 main screens here which include GameForm and GameList using the help of Part 2 of the shared tutorial which taught the working of redux with hooks 
